@@ -1,0 +1,16 @@
+﻿@page
+@model ClientsCRUD.Pages.Mail.SendMailModel
+
+<form method="post">
+    <label for="toEmail">To:</label>
+    <input id="toEmail" name="ToEmail" type="text" />
+
+    <label for="subject">Subject:</label>
+    <input id="subject" name="Subject" type="text" />
+
+    <label for="body">Body:</label>
+    <textarea id="body" name="Body"></textarea>
+
+    <button type="submit">Send</button>
+</form>
+

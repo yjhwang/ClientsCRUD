@@ -1,0 +1,59 @@
+﻿@page
+@model ClientsCRUD.Pages.Act.actAddModel
+<h2>新增活動</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+        <strong>
+            @Model.errorMessage
+        </strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+
+    </div>
+}
+
+<form method="POST">
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動名稱*</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="actName" value="@Model.cInfo.actName" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動類別*</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="actType" value="@Model.cInfo.actType" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">主辦單位*</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="actDepart" value="@Model.cInfo.actDepart" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動地點*</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="actLocation" value="@Model.cInfo.actLocation" />
+        </div>
+    </div>
+
+    @if (Model.succMessage.Length > 0)
+    {
+        <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+            <strong> @Model.succMessage</strong>
+            <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+    </div>
+</form>
+

@@ -1,0 +1,22 @@
+﻿@page
+@model ClientsCRUD.Pages.UploadFileModel
+@{
+    // Layout = "_Finaz";
+    ViewData["Title"] = "Upload Image";
+}
+
+
+            <form method="post" enctype="multipart/form-data">
+                <div>
+                    <label for="ImageFile">Choose an image file:</label>
+                    <input type="file" name="ImageFile" accept="image/*" required />
+                </div>
+                <button type="submit">Upload</button>
+            </form>
+
+
+
+        @if (!string.IsNullOrEmpty(Model.Message))
+        {
+            <div>@Model.Message</div>
+        } 

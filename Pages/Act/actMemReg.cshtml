@@ -1,0 +1,62 @@
+﻿@page
+@model ClientsCRUD.Pages.Act.actMemRegModel
+<h2>活動報名</h2>
+
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+        <strong>
+            @Model.errorMessage
+        </strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+
+    </div>
+}
+
+<form method="POST">
+    <input type="hidden" name="actNo" value="@Model.cInfo.actNo" />
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動名稱</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="actName" value="@Model.cInfo.actName" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">會員編號*</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="memID" value="@Model.maInfo.maMemID" />
+        </div>
+    </div>
+    
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">會員名稱</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="memName" value="@Model.memInfo.memName" />
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">備註</label>
+        <div class="col-sm-6">
+            <input type="text" class="form-control" name="maRemark" value="@Model.maInfo.maRemark" />
+        </div>
+    </div>
+
+
+    @if (Model.succMessage.Length > 0)
+    {
+        <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+            <strong> @Model.succMessage</strong>
+            <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+        </div>
+    }
+
+    <div class="row mb-3">
+        <div class="offset-sm-3 col-sm-3 d-grid">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        <div class="col-sm-3 d-grid">
+            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+        </div>
+    </div>
+</form>

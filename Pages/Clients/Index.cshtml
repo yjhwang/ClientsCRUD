@@ -1,0 +1,62 @@
+﻿@page
+@model ClientsCRUD.Pages.Clients.IndexModel
+@{
+    ViewData["Title"] = "客戶清單";
+}
+
+<h2>客戶清單</h2>
+<div>
+    <a href='/Clients/Create'>[新增]</a>
+    <form method="GET">
+        <div class="row mb-1">
+            <div class="col-sm-2">
+                <input type="text" class="form-control" name="Qry" value=""/>
+            </div>
+            <div class="col-sm-2 d-grid">
+                <button type="submit" class="btn btn-primary">查詢</button>
+            </div>
+        </div>
+    </form>
+</div>
+@if (Model.errorMessage.Length > 0)
+{
+    <div class='alert alert-warning alert-dismissible fade show' role='alert'>
+        <strong>
+            @Model.errorMessage
+        </strong>
+        <button type='button' class='btn-close' data-bs-dismiss='alert' aria-label='Close'></button>
+
+    </div>
+}
+<table class="table">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Address</th>
+        <!-- <th>建檔時間</th> -->
+        <th>Action</th>
+    </tr>
+    </thead>
+    <tbody>
+        
+        @foreach(var item in Model.listClients)
+        {
+        <tr>
+            <td>@item.id</td>
+            <td>@item.name</td>
+            <td>@item.email</td>
+            <td>@item.phone</td>
+            <td>@item.address</td>
+            <!-- <td>@item.created_at</td> -->
+            <td>
+            <a class="btn btn-primary btn-sm" href="/Clients/Edit?id=@item.id">Edit</a>
+            <a class="btn btn-danger btn-sm" href="/Clients/Delete?id=@item.id">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+<p> 總共有 @Model.records 筆資料, 其中符合查詢條件的有 @Model.listClients.Count 筆。 </p>
