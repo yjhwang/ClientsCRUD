@@ -1,5 +1,5 @@
 # ClientsCRUD
-2023/04/30 這是一個完整的CRUD範例
+這是一個完整的CRUD範例
 以 ASP.NET Core Web 為主，且套用Bootstrap 5 Template
 從這個範例可以學習關聯式資料庫的設計基本能力。
 --
