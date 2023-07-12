@@ -1,29 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yjhwang/Documents/web/ClientsCRUD/ClientsCRUD.csproj": {}
+    "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\ClientsCRUD.csproj": {}
   },
   "projects": {
-    "/Users/yjhwang/Documents/web/ClientsCRUD/ClientsCRUD.csproj": {
+    "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\ClientsCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yjhwang/Documents/web/ClientsCRUD/ClientsCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\ClientsCRUD.csproj",
         "projectName": "ClientsCRUD",
-        "projectPath": "/Users/yjhwang/Documents/web/ClientsCRUD/ClientsCRUD.csproj",
-        "packagesPath": "/Users/yjhwang/.nuget/packages/",
-        "outputPath": "/Users/yjhwang/Documents/web/ClientsCRUD/obj/",
+        "projectPath": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\ClientsCRUD.csproj",
+        "packagesPath": "C:\\Users\\kia88\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/yjhwang/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kia88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/sdk/7.0.304/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,8 +71,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -86,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
