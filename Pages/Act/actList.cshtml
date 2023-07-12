@@ -36,6 +36,7 @@
             <th>名稱</th>
             <th>主辦單位</th>
             <th>地點</th>
+            <th>開始/結束</th>  <!--顯示活動起始時間的欄位-->
         <!--
         <th>開始時間</th>
         <th>結束時間</th>
@@ -53,9 +54,8 @@
                 <td>@item.actName</td>
                 <td>@item.actDepart</td>
                 <td>@item.actLocation</td>
-                <!--
-                <td>@item.actStart</td>
-                -->
+                <td>@item.actStart <br/> @item.actEnd </td> <!--顯示活動起始時間-->
+
                 <td>
                     <a class="btn btn-primary btn-sm" href="/Act/actEdit?id=@item.actNo">Edit</a>
                     <a class="btn btn-danger btn-sm" href="/Act/actDelete?id=@item.actNo">Delete</a>
