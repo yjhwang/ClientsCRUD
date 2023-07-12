@@ -30,6 +30,8 @@ namespace ClientsCRUD.Pages.Act
             cInfo.actType = Request.Form["actType"];
             cInfo.actDepart = Request.Form["actDepart"];
             cInfo.actLocation = Request.Form["actLocation"];
+            cInfo.actStart = Request.Form["actStart"];    //輸入活動開始時間
+            cInfo.actEnd = Request.Form["actEnd"];     //輸入活動結束時間
 
             if (cInfo.actName.Length == 0 || cInfo.actType.Length == 0 ||
                 cInfo.actDepart.Length == 0 || cInfo.actLocation.Length == 0)
@@ -44,14 +46,16 @@ namespace ClientsCRUD.Pages.Act
                 SqlConnection conn = new(connStr);
                 conn.Open();
                 string sqlStr = "INSERT INTO tbActivity " +
-                       "(actName, actType, actDepart, actLocation) VALUES " +
-                       "(@name, @type, @depart, @address);";
+                       "(actName, actType, actDepart, actLocation, actStart, actEnd) VALUES " +
+                       "(@name, @type, @depart, @address, @start, @end);";
 
                 SqlCommand cmd = new(sqlStr, conn);
                 cmd.Parameters.AddWithValue("@name", cInfo.actName);
                 cmd.Parameters.AddWithValue("@type", cInfo.actType);
                 cmd.Parameters.AddWithValue("@depart", cInfo.actDepart);
                 cmd.Parameters.AddWithValue("@address", cInfo.actLocation);
+                cmd.Parameters.AddWithValue("@start", cInfo.actStart);
+                cmd.Parameters.AddWithValue("@end", cInfo.actEnd);
                 cmd.ExecuteNonQuery();
                 conn.Close();
             }
