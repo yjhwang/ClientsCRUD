@@ -5,117 +5,116 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientsCRUD
 build_property.RootNamespace = ClientsCRUD
-build_property.ProjectDir = /Users/yjhwang/Documents/web/ClientsCRUD/
+build_property.ProjectDir = C:\Users\kia88\OneDrive\ClientsCRUD\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/yjhwang/Documents/web/ClientsCRUD
+build_property.MSBuildProjectDirectory = C:\Users\kia88\OneDrive\ClientsCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actAdd.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdEFkZC5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actDelete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdERlbGV0ZS5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actEdit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdEVkaXQuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdExpc3QuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actMemReg.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdE1lbVJlZy5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actMemReg.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdE1lbVJlZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Act/actRegList.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0L2FjdFJlZ0xpc3QuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Act/actRegList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdFJlZ0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Clients/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9DcmVhdGUuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Clients/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9EZWxldGUuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Clients/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9FZGl0LmNzaHRtbA==
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Clients/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50cy9JbmRleC5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Error404.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3I0MDQuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3I0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTG9naW4uY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Mail/SendMail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbC9TZW5kTWFpbC5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Mail/SendMail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbFxTZW5kTWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Member/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWVtYmVyL0luZGV4LmNzaHRtbA==
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Member/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/OurTeam.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3VyVGVhbS5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/OurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Shared/_Finaz.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19GaW5hei5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Shared/_Finaz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9GaW5hei5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/ShowImages.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hvd0ltYWdlcy5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/ShowImages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0ltYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/UploadFile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBsb2FkRmlsZS5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/UploadFile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkRmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-ov5fs8yy1m
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-29o35o2p8o
 
-[/Users/yjhwang/Documents/web/ClientsCRUD/Pages/Shared/_LayoutGuest.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXRHdWVzdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = b-8paa1vn1hb
+[C:/Users/kia88/OneDrive/ClientsCRUD/Pages/Shared/_LayoutGuest.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRHdWVzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-76bztxti2k

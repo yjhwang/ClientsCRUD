@@ -38,6 +38,18 @@
             <input type="text" class="form-control" name="actLocation" value="@Model.cInfo.actLocation" />
         </div>
     </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動開始時間</label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="actStart" value="@Model.cInfo.actStart" />
+        </div>
+    </div>
+    <div class="row mb-3">
+        <label class="col-sm-3 col-form-label">活動結束時間</label>
+        <div class="col-sm-6">
+            <input type="date" class="form-control" name="actEnd" value="@Model.cInfo.actEnd" />
+        </div>
+    </div>
 
     @if (Model.succMessage.Length > 0)
     {

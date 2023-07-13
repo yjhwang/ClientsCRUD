@@ -76,8 +76,8 @@ namespace ClientsCRUD.Pages.Act
                     cInfo.actType = dr.GetString(2);
                     cInfo.actDepart = dr.GetString(3);
                     cInfo.actLocation = dr.GetString(4);
-                    //cInfo.actStart = dr.GetDateTime(5).ToString();
-                    //cInfo.actEnd = dr.GetDateTime(6).ToString();
+                    cInfo.actStart = dr.GetDateTime(5).ToString("yyyy-MM-dd");  //從DB裡讀取資料
+                    cInfo.actEnd = dr.GetDateTime(6).ToString("yyyy-MM-dd");   //從DB裡讀取資料
 
                     listAct.Add(cInfo);
                 }
