@@ -12,5 +12,5 @@
 		* （3）編輯活動-actEdit  
 		* （4）刪除活動-actDelele
 
-- 2023/07/08 修訂資料表Null的問題
-	*待補充 Member的 CRUD 程式碼*
+- 2023/07/08 修訂資料表Null的問題  
+	- *待補充 Member的 CRUD 程式碼*
