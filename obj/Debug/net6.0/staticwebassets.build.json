@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "x00abX91RNIOvf7YWQ63j2llqOIZoQYGKv1W0zvYi58=",
+  "Hash": "1S02/ClxuiImawV87GBf87C6C+029XuzGnPYo873tvM=",
   "Source": "ClientsCRUD",
   "BasePath": "_content/ClientsCRUD",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\image\\圖1-研究流程與架構.png"
+    },
+    {
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\螢幕擷取畫面_20221102_094433.png",
+      "SourceId": "ClientsCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
+      "BasePath": "_content/ClientsCRUD",
+      "RelativePath": "image/螢幕擷取畫面_20221102_094433.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\螢幕擷取畫面_20221102_094433.png"
     },
     {
       "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\about.jpg",

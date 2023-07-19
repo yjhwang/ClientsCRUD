@@ -72,18 +72,18 @@ namespace ClientsCRUD.Pages.Member
 
                 while (dr.Read())
                 {
-                    MemInfo cInfo = new();
+                    MemInfo mInfo = new();
 
-                    cInfo.memID = "" + dr.GetInt32(0);
-                    cInfo.memName = dr.GetString(3);
-                    cInfo.memPhone = dr.GetString(4);
-                    cInfo.memEmail = dr.GetString(5);
-                    cInfo.memBirth = dr.GetDateTime(6).ToString();
-                    cInfo.memRemark = dr.GetString(7);
-                    cInfo.cDate = dr.GetDateTime(8).ToString();
-                    cInfo.mDate = dr.GetDateTime(9).ToString();
+                    mInfo.memID = "" + dr.GetInt32(0);
+                    mInfo.memName = dr.GetString(3);
+                    mInfo.memPhone = dr.GetString(4);
+                    mInfo.memEmail = dr.GetString(5);
+                    mInfo.memBirth = dr.GetDateTime(6).ToString();
+                    mInfo.memRemark = dr.GetString(7);
+                    mInfo.cDate = dr.GetDateTime(8).ToString();
+                    mInfo.mDate = dr.GetDateTime(9).ToString();
 
-                    listMembers.Add(cInfo);
+                    listMembers.Add(mInfo);
                 }
                 conn.Close();
             }
