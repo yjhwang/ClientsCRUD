@@ -9,113 +9,117 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClientsCRUD
 build_property.RootNamespace = ClientsCRUD
-build_property.ProjectDir = C:\Users\G\Source\Repos\ClientsCRUD\
+build_property.ProjectDir = C:\Users\G\source\repos\ClientsCRUD\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\G\Source\Repos\ClientsCRUD
+build_property.MSBuildProjectDirectory = C:\Users\G\source\repos\ClientsCRUD
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actAdd.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actAdd.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdEFkZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actDelete.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actEdit.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actList.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actMemReg.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actMemReg.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdE1lbVJlZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Act/actRegList.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Act/actRegList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0XGFjdFJlZ0xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Clients/Create.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Clients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Clients/Delete.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Clients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Clients/Edit.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Clients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Clients/Index.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Clients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Error.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Error404.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3I0MDQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Index.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Login.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Mail/SendMail.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Mail/SendMail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbFxTZW5kTWFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Member/Index.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Member/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Member/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVtYmVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/OurTeam.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Privacy.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Shared/_Finaz.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Shared/_Finaz.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9GaW5hei5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/ShowImages.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/ShowImages.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvd0ltYWdlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/UploadFile.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/UploadFile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkRmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/_ViewImports.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/_ViewStart.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Shared/_Layout.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-29o35o2p8o
 
-[C:/Users/G/Source/Repos/ClientsCRUD/Pages/Shared/_LayoutGuest.cshtml]
+[C:/Users/G/source/repos/ClientsCRUD/Pages/Shared/_LayoutGuest.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXRHdWVzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-76bztxti2k

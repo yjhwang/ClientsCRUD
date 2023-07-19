@@ -25,7 +25,7 @@ namespace ClientsCRUD.Pages.Member
 
     public class IndexModel : PageModel
     {
-        public List<MemInfo> listMem = new();
+        public List<MemInfo> listMembers = new();
         public string errorMessage = "";
         public int records = 0;
         public string connStr;
@@ -83,7 +83,7 @@ namespace ClientsCRUD.Pages.Member
                     cInfo.cDate = dr.GetDateTime(8).ToString();
                     cInfo.mDate = dr.GetDateTime(9).ToString();
 
-                    listMem.Add(cInfo);
+                    listMembers.Add(cInfo);
                 }
                 conn.Close();
             }

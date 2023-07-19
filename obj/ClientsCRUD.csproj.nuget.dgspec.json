@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\G\\Source\\Repos\\ClientsCRUD\\ClientsCRUD.csproj": {}
+    "C:\\Users\\G\\source\\repos\\ClientsCRUD\\ClientsCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\G\\Source\\Repos\\ClientsCRUD\\ClientsCRUD.csproj": {
+    "C:\\Users\\G\\source\\repos\\ClientsCRUD\\ClientsCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\G\\Source\\Repos\\ClientsCRUD\\ClientsCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\ClientsCRUD.csproj",
         "projectName": "ClientsCRUD",
-        "projectPath": "C:\\Users\\G\\Source\\Repos\\ClientsCRUD\\ClientsCRUD.csproj",
+        "projectPath": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\ClientsCRUD.csproj",
         "packagesPath": "C:\\Users\\G\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\G\\Source\\Repos\\ClientsCRUD\\obj\\",
+        "outputPath": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\G\\AppData\\Roaming\\NuGet\\NuGet.Config",
