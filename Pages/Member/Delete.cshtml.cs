@@ -53,10 +53,11 @@ namespace ClientsCRUD.Pages.Member
                 string connStr = _connectStr;
                 SqlConnection conn = new(connStr);
                 conn.Open();
-                string sqlStr = "DELETE from tbMember WHERE memID=@id";
+                string sqlStr = "DELETE from tbMember WHERE memID = @id";
                 SqlCommand cmd = new(sqlStr, conn);
                 cmd.Parameters.AddWithValue("@id", id);
                 cmd.ExecuteNonQuery();
+                conn.Close();
             }
             catch (Exception ex)
             {
