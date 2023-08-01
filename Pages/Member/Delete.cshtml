@@ -1,9 +1,8 @@
 ﻿@page
-@model ClientsCRUD.Pages.Member.CreateModel
+@model ClientsCRUD.Pages.Member.EditModel
 @{
 }
-<h2>新增會員</h2>
-
+<h2>刪除會員</h2>
 @if (Model.errorMessage.Length > 0)
 {
     <div class='alert alert-warning alert-dismissible fade show' role='alert'>
@@ -16,16 +15,17 @@
 }
 
 <form method="POST">
+    <input type="hidden" name="id" value="@Model.mInfo.memID" />
     <div class="row mb-3">
         <label class="col-sm-3 col-form-label">會員名稱</label>
         <div class="col-sm-6">
-            <input type="text" class="form-control" name="name" value="@Model.mInfo.memName"/>
+            <input type="text" class="form-control" name="name" value="@Model.mInfo.memName" />
         </div>
     </div>
     <div class="row mb-3">
         <label class="col-sm-3 col-form-label">會員電話</label>
         <div class="col-sm-6">
-            <input type="text" class="form-control" name="phone" value="@Model.mInfo.memPhone"/>
+            <input type="text" class="form-control" name="phone" value="@Model.mInfo.memPhone" />
         </div>
     </div>
     <div class="row mb-3">
@@ -41,7 +41,7 @@
         </div>
     </div>
     <div class="row mb-3">
-        <label class="col-sm-3 col-form-label">會員備註</label>
+        <label class="col-sm-3 col-form-label">備註</label>
         <div class="col-sm-6">
             <input type="text" class="form-control" name="remark" value="@Model.mInfo.memRemark"/>
         </div>
@@ -57,10 +57,10 @@
 
     <div class="row mb-3">
         <div class="offset-sm-3 col-sm-3 d-grid">
-            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" class="btn btn-primary">Delete</button>
         </div>
         <div class="col-sm-3 d-grid">
-            <a class="btn btn-outline-primary" href="/" role="button">Cancel</a>
+            <a class="btn btn-outline-primary" asp-page="/Member/Index" role="button">Cancel</a>
         </div>
     </div>
 </form>

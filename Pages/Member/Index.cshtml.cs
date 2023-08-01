@@ -78,7 +78,7 @@ namespace ClientsCRUD.Pages.Member
                     mInfo.memName = dr.GetString(3);
                     mInfo.memPhone = dr.GetString(4);
                     mInfo.memEmail = dr.GetString(5);
-                    mInfo.memBirth = dr.GetDateTime(6).ToString();
+                    mInfo.memBirth = dr.GetDateTime(6).ToString("yyyy-MM-dd"); // 日期
                     mInfo.memRemark = dr.GetString(7);
                     mInfo.cDate = dr.GetDateTime(8).ToString();
                     mInfo.mDate = dr.GetDateTime(9).ToString();

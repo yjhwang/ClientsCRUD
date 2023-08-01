@@ -52,10 +52,11 @@ namespace ClientsCRUD.Pages.Member
             mInfo.memName = Request.Form["name"];
             mInfo.memEmail = Request.Form["email"];
             mInfo.memPhone = Request.Form["phone"];
+            mInfo.memBirth = Request.Form["birth"];
             mInfo.memRemark = Request.Form["remark"];
 
             if (mInfo.memName.Length == 0 || mInfo.memEmail.Length == 0 ||
-                mInfo.memPhone.Length == 0 || mInfo.memRemark.Length == 0 )
+                mInfo.memPhone.Length == 0 || mInfo.memBirth.Length == 0 || mInfo.memRemark.Length == 0 )
             {
                 errorMessage = "All the fields are required!";
                 return;
@@ -67,13 +68,14 @@ namespace ClientsCRUD.Pages.Member
                 SqlConnection conn = new(connStr);
                 conn.Open();
                 string sqlStr = "UPDATE tbMembers " +
-                    " SET memName=@name, memEmail=@email, memPhone=@phone, memRemark=@remark " +
+                    " SET memName=@name, memEmail=@email, memPhone=@phone, memBirth=@birth, memRemark=@remark " +
                     " WHERE memID = @id";
                 SqlCommand cmd = new(sqlStr, conn);
                 cmd.Parameters.AddWithValue("@id", mInfo.memID);
                 cmd.Parameters.AddWithValue("@name", mInfo.memName);
                 cmd.Parameters.AddWithValue("@email", mInfo.memEmail);
                 cmd.Parameters.AddWithValue("@phone", mInfo.memPhone);
+                cmd.Parameters.AddWithValue("@birth", mInfo.memBirth);
                 cmd.Parameters.AddWithValue("@remark", mInfo.memRemark);
                 cmd.ExecuteNonQuery();
                 conn.Close();
@@ -85,7 +87,7 @@ namespace ClientsCRUD.Pages.Member
             }
 
 
-            mInfo.memID = ""; mInfo.memEmail = ""; mInfo.memPhone = ""; mInfo.memRemark = "";
+            mInfo.memID = ""; mInfo.memEmail = ""; mInfo.memPhone = ""; mInfo.memBirth = ""; mInfo.memRemark = "";
             succMessage = "Update client corrected!";
 
             Response.Redirect("/Member/Index");
