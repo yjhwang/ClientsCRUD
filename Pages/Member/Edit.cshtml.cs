@@ -34,7 +34,7 @@ namespace ClientsCRUD.Pages.Member
                     mInfo.memName = rd.GetString(3);
                     mInfo.memPhone = rd.GetString(4);
                     mInfo.memEmail = rd.GetString(5);
-                    mInfo.memBirth = rd.GetDateTime(6).ToString();
+                    mInfo.memBirth = rd.GetDateTime(6).ToString("yyyy-MM-dd");
                     mInfo.memRemark = rd.GetString(7);
 
                 }
