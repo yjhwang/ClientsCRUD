@@ -1,5 +1,5 @@
 ﻿@page
-@model ClientsCRUD.Pages.Member.EditModel
+@model ClientsCRUD.Pages.Member.DeleteModel   // DeleteModel 跟 EditModel 的差別是?
 @{
 }
 <h2>刪除會員</h2>
@@ -19,13 +19,13 @@
     <div class="row mb-3">
         <label class="col-sm-3 col-form-label">會員名稱</label>
         <div class="col-sm-6">
-            <input type="text" class="form-control" name="name" value="@Model.mInfo.memName" />
+            <input type="text" class="form-control" name="name" value="@Model.mInfo.memName"/>
         </div>
     </div>
     <div class="row mb-3">
         <label class="col-sm-3 col-form-label">會員電話</label>
         <div class="col-sm-6">
-            <input type="text" class="form-control" name="phone" value="@Model.mInfo.memPhone" />
+            <input type="text" class="form-control" name="phone" value="@Model.mInfo.memPhone"/>
         </div>
     </div>
     <div class="row mb-3">
