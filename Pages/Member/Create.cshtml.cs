@@ -44,8 +44,9 @@ namespace ClientsCRUD.Pages.Member
                 SqlConnection conn = new(connStr);
                     conn.Open();
                     string sqlStr = "INSERT INTO tbMembers " +
-                           "(memName, memPhone, memEmail, memBirth, memRemark) VALUES " +
-                           "(@name, @phone, @email, @birth, @remark);";
+                           "(memUname, memPwd, memName, memPhone, memEmail, memBirth, memRemark) VALUES " +
+                           "('uname', 'pwd', @name, @phone, @email, @birth, @remark);";
+                // 沒有給 memUname, memPwd 值， UI會有錯誤訊息 NULL 
 
                     SqlCommand cmd = new(sqlStr, conn);
                     cmd.Parameters.AddWithValue("name", mInfo.memName);
