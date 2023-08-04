@@ -1,12 +1,12 @@
 ﻿@page
 @model ClientsCRUD.Pages.Member.IndexModel
 @{
-    ViewData["Title"] = "維清會員資料";
+    ViewData["Title"] = "會員資料";
 }
 
 <h2>會員清單</h2>
 <div>
-    <a href='/Member/memCreate'>[新增]</a>
+    <a href='/Member/Create'>[新增]</a>
     <form method="GET">
         <div class="row mb-1">
             <div class="col-sm-2">
@@ -35,6 +35,7 @@
             <th>會員名稱</th>
             <th>會員電話</th>
             <th>會員Email</th>
+            <th>會員生日</th>
             <th>會員備註</th>
             <!--
     <th>開始時間</th>
@@ -45,25 +46,26 @@
     </thead>
     <tbody>
 
-        @foreach (var item in Model.listMem)
+        @foreach (var item in Model.listMembers)
         {
             <tr>
                 <td>@item.memID</td>
                 <td>@item.memName</td>
                 <td>@item.memPhone</td>
                 <td>@item.memEmail</td>
+                <td>@item.memBirth</td>
                 <td>@item.memRemark</td>
                 <!--
     <td>@item.mDate</td>
     -->
                 <td>
-                    <a class="btn btn-primary btn-sm" href="/Act/actEdit?id=@item.memID">Edit</a>
-                    <a class="btn btn-danger btn-sm" href="/Act/actDelete?id=@item.memID">Delete</a>
+                    <a class="btn btn-primary btn-sm" href="/Member/Edit?id=@item.memID">Edit</a>
+                    <a class="btn btn-danger btn-sm" href="/Member/Delete?id=@item.memID">Delete</a>
                 </td>
             </tr>
         }
     </tbody>
 </table>
-<p> 總共有 @Model.records 筆資料, 其中符合查詢條件的有 @Model.listMem.Count 筆。 </p>
+<p> 總共有 @Model.records 筆資料, 其中符合查詢條件的有 @Model.listMembers.Count 筆。 </p>
 
 

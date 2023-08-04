@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UjI+0GlCRewFRTSe4WgEijaLneo9QGWGlaPX4mrCqC4=",
+  "Hash": "1S02/ClxuiImawV87GBf87C6C+029XuzGnPYo873tvM=",
   "Source": "ClientsCRUD",
   "BasePath": "_content/ClientsCRUD",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ClientsCRUD\\wwwroot",
       "Source": "ClientsCRUD",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClientsCRUD.styles.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClientsCRUD.styles.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "ClientsCRUD.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClientsCRUD.styles.css"
+      "OriginalItemSpec": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ClientsCRUD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClientsCRUD.bundle.scp.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClientsCRUD.bundle.scp.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "ClientsCRUD.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClientsCRUD.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ClientsCRUD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\css\\site.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\css\\style.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\favicon.ico",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\0405-g.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\0405-g.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/0405-g.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\image\\0405-g.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\0406-g.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\0406-g.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/0406-g.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\image\\0406-g.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\0406-L.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\0406-L.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/0406-L.jpg",
       "AssetKind": "All",
@@ -170,10 +170,27 @@
       "OriginalItemSpec": "wwwroot\\image\\0406-L.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\Jack2019.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\issue_.png",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
+      "BasePath": "_content/ClientsCRUD",
+      "RelativePath": "image/issue_.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\issue_.png"
+    },
+    {
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\Jack2019.jpg",
+      "SourceId": "ClientsCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/Jack2019.jpg",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\image\\Jack2019.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\JackHome1.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\JackHome1.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/JackHome1.jpg",
       "AssetKind": "All",
@@ -204,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\image\\JackHome1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\JackHome2.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\JackHome2.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/JackHome2.jpg",
       "AssetKind": "All",
@@ -221,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\image\\JackHome2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\嘉義-張偉政.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\嘉義-張偉政.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/嘉義-張偉政.jpg",
       "AssetKind": "All",
@@ -238,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\image\\嘉義-張偉政.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\image\\圖1-研究流程與架構.png",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\圖1-研究流程與架構.png",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "image/圖1-研究流程與架構.png",
       "AssetKind": "All",
@@ -255,10 +272,27 @@
       "OriginalItemSpec": "wwwroot\\image\\圖1-研究流程與架構.png"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\image\\螢幕擷取畫面_20221102_094433.png",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
+      "BasePath": "_content/ClientsCRUD",
+      "RelativePath": "image/螢幕擷取畫面_20221102_094433.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\螢幕擷取畫面_20221102_094433.png"
+    },
+    {
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\about.jpg",
+      "SourceId": "ClientsCRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -272,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\bg.png",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\bg.png",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/bg.png",
       "AssetKind": "All",
@@ -289,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg.png"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\carousel-1.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\carousel-1.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/carousel-1.jpg",
       "AssetKind": "All",
@@ -306,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\carousel-2.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\carousel-2.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/carousel-2.jpg",
       "AssetKind": "All",
@@ -323,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\carousel-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\header.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\header.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/header.jpg",
       "AssetKind": "All",
@@ -340,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\header.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\service-1.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\service-1.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/service-1.jpg",
       "AssetKind": "All",
@@ -357,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\service-2.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\service-2.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/service-2.jpg",
       "AssetKind": "All",
@@ -374,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\service-3.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\service-3.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/service-3.jpg",
       "AssetKind": "All",
@@ -391,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\service-4.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\service-4.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/service-4.jpg",
       "AssetKind": "All",
@@ -408,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\service-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\team-1.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\team-1.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/team-1.jpg",
       "AssetKind": "All",
@@ -425,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\team-2.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\team-2.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/team-2.jpg",
       "AssetKind": "All",
@@ -442,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\team-3.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\team-3.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/team-3.jpg",
       "AssetKind": "All",
@@ -459,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\testimonial-1.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -476,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\testimonial-2.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -493,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\testimonial-3.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\testimonial-3.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/testimonial-3.jpg",
       "AssetKind": "All",
@@ -510,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\img\\testimonial-4.jpg",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\img\\testimonial-4.jpg",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "img/testimonial-4.jpg",
       "AssetKind": "All",
@@ -527,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonial-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\js\\main.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -544,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\js\\site.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -561,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\animate\\animate.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\animate\\animate.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/animate/animate.css",
       "AssetKind": "All",
@@ -578,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\animate\\animate.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\animate\\animate.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/animate/animate.min.css",
       "AssetKind": "All",
@@ -595,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\animate\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -612,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -629,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -646,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -663,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -680,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -748,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -765,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -782,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -799,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -816,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -884,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -901,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -918,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -935,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -952,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1020,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1037,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1054,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1156,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1173,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1190,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1207,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1224,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1241,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1258,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1275,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1292,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1309,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1326,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1360,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\counterup\\counterup.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\counterup\\counterup.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/counterup/counterup.min.js",
       "AssetKind": "All",
@@ -1377,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\counterup\\counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\easing\\easing.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/easing/easing.js",
       "AssetKind": "All",
@@ -1394,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\easing\\easing.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -1411,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1428,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1445,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1462,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1479,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1496,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1513,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1530,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1547,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1564,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1581,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1598,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1615,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -1632,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -1649,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -1666,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -1683,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -1700,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -1717,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -1734,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -1751,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\LICENSE",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -1768,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -1785,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1802,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\waypoints\\links.php",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/waypoints/links.php",
       "AssetKind": "All",
@@ -1819,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -1836,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\wow\\wow.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\wow\\wow.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/wow/wow.js",
       "AssetKind": "All",
@@ -1853,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\lib\\wow\\wow.min.js",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\lib\\wow\\wow.min.js",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "lib/wow/wow.min.js",
       "AssetKind": "All",
@@ -1870,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\wow\\wow.min.js"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1887,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -1904,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -1921,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -1938,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -1955,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -1972,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -1989,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -2006,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -2023,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -2040,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -2057,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -2074,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -2091,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -2108,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -2125,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -2142,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -2159,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -2176,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -2193,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -2210,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -2227,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -2244,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -2261,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -2278,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -2295,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -2312,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -2329,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -2346,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -2363,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -2380,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -2397,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -2414,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -2431,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -2448,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -2465,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -2482,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -2499,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -2516,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -2533,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -2550,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -2567,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -2584,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -2601,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -2618,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -2635,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -2652,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -2669,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -2686,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -2703,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -2720,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -2737,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -2754,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -2771,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -2788,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -2805,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2822,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -2839,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -2856,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -2873,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -2890,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -2907,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -2924,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -2941,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -2958,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -2975,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -2992,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -3009,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -3026,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -3043,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -3060,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -3077,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -3094,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -3111,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -3128,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -3145,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -3162,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -3179,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -3196,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -3213,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -3230,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -3247,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "ClientsCRUD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kia88\\OneDrive\\ClientsCRUD\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\G\\source\\repos\\ClientsCRUD\\wwwroot\\",
       "BasePath": "_content/ClientsCRUD",
       "RelativePath": "scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",

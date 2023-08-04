@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Http;
 using System.IO;
@@ -22,7 +22,7 @@ namespace ClientsCRUD.Pages
         {
             if (ImageFile != null && ImageFile.Length > 0)
             {
-                fileName = Path.GetFileName(ImageFile.FileName);
+                fileName = Path.GetFileName(ImageFile.FileName);  //取得圖檔名稱
                 var uploadPath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "image", fileName);
 
                 using (var fileStream = new FileStream(uploadPath, FileMode.Create))

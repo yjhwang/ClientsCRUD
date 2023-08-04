@@ -25,7 +25,7 @@ namespace ClientsCRUD.Pages.Member
 
     public class IndexModel : PageModel
     {
-        public List<MemInfo> listMem = new();
+        public List<MemInfo> listMembers = new();
         public string errorMessage = "";
         public int records = 0;
         public string connStr;
@@ -72,18 +72,18 @@ namespace ClientsCRUD.Pages.Member
 
                 while (dr.Read())
                 {
-                    MemInfo cInfo = new();
+                    MemInfo mInfo = new();
 
-                    cInfo.memID = "" + dr.GetInt32(0);
-                    cInfo.memName = dr.GetString(3);
-                    cInfo.memPhone = dr.GetString(4);
-                    cInfo.memEmail = dr.GetString(5);
-                    cInfo.memBirth = dr.GetDateTime(6).ToString();
-                    cInfo.memRemark = dr.GetString(7);
-                    cInfo.cDate = dr.GetDateTime(8).ToString();
-                    cInfo.mDate = dr.GetDateTime(9).ToString();
+                    mInfo.memID = "" + dr.GetInt32(0);
+                    mInfo.memName = dr.GetString(3);
+                    mInfo.memPhone = dr.GetString(4);
+                    mInfo.memEmail = dr.GetString(5);
+                    mInfo.memBirth = dr.GetDateTime(6).ToString("yyyy-MM-dd"); // 日期
+                    mInfo.memRemark = dr.GetString(7);
+                    mInfo.cDate = dr.GetDateTime(8).ToString();
+                    mInfo.mDate = dr.GetDateTime(9).ToString();
 
-                    listMem.Add(cInfo);
+                    listMembers.Add(mInfo);
                 }
                 conn.Close();
             }

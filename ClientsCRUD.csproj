@@ -18,7 +18,6 @@
   <ItemGroup>
     <Folder Include="wwwroot\image\" />
     <Folder Include="Pages\Act\" />
-    <Folder Include="Pages\Member\" />
     <Folder Include="Pages\Mail\" />
   </ItemGroup>
 
