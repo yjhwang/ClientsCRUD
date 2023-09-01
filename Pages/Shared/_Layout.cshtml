@@ -10,41 +10,48 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
+            <!--
+                navbar-dark bg-dark
+                navbar-light bg-white  
+                //.navbar-light 選用淺色背景顏色， .navbar-dark 用於深色背景顏色。 然後，使用 .bg-* 通用類別自訂
+            -->
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">ClientsCRUD</a>
+                <a class="navbar-brand" asp-area="" asp-page="/Index">會員活動管理系統</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        <!--
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">首頁</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                           <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
+                        </li>
+                        -->
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-page="/Clients/Index">客戶管理</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Clients/Index">客戶管理</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Member/Index">會員管理</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Member/Index">會員管理</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/UploadFile">上傳圖片</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/UploadFile">上傳圖片</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/ShowImages">顯示圖片</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/ShowImages">顯示圖片</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Act/actList">活動管理</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Act/actList">活動管理</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Act/actRegList">活動報名</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Act/actRegList">活動報名</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Mail/SendMail">SendMail</a>
+                            <a class="nav-link text-white" asp-area="" asp-page="/Mail/SendMail">發送訊息</a>
                         </li>
                     </ul>
                 </div>

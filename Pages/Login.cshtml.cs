@@ -7,14 +7,15 @@ using Microsoft.AspNetCore.Identity;
 using System.Xml.Linq;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using ClientsCRUD.Models;
 
 namespace ClientsCRUD.Pages
 {
 	public class LoginModel : PageModel
     {
-            private readonly SignInManager<IdentityUser> _signInManager;
+            private readonly SignInManager<MainUser> _signInManager;
 
-            public LoginModel(SignInManager<IdentityUser> signInManager)
+            public LoginModel(SignInManager<MainUser> signInManager)
             {
                 _signInManager = signInManager;
             }
