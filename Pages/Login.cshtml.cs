@@ -14,7 +14,7 @@ namespace ClientsCRUD.Pages
     {
             private readonly SignInManager<IdentityUser> _signInManager;
 
-            public LoginModel(SignInManager<IdentityUser> signInManager)
+        public LoginModel(SignInManager<IdentityUser> signInManager)
             {
                 _signInManager = signInManager;
             }
